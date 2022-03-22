@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Users\eliel\Desktop\Meus Projetos\DesafioConnection\.metadata\.plugins\org.eclipse.jdt.core
+1130419846.index
+3557103894.index
+3999760434.index
+145622775.index
+2794184668.index
+190417310.index
+3359015264.index
+3405033453.index
+3433134282.index
+654778976.index
+10968696.index
+3499064014.index
+3849808600.index
+1865797976.index
+2911557218.index
+3832639348.index
+3850302770.index
+820205453.index
